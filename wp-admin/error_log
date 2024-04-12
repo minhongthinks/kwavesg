@@ -1,0 +1,4 @@
+[19-Mar-2024 08:22:56 UTC] PHP Warning:  Attempt to read property "title" on null in /home3/lavishsi/kwave.lavish-site.com/wp-includes/class-wp-customize-widgets.php on line 905
+[19-Mar-2024 08:23:36 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home3/lavishsi/kwave.lavish-site.com/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[19-Mar-2024 08:23:36 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home3/lavishsi/kwave.lavish-site.com/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[23-Mar-2024 14:48:45 UTC] PHP Warning:  Undefined variable $site_secret in /home3/lavishsi/kwave.lavish-site.com/wp-content/plugins/gravityforms/includes/class-gravity-api.php on line 326
